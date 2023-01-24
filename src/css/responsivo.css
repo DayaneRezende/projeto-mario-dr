@@ -1,4 +1,4 @@
-@media (max-windth: 1200px) {
+@media (max-width: 1200px) {
     body {
      background-color: blueviolet;  
 }
@@ -34,7 +34,7 @@
 }
 }
 
-@media (mas-width: 500px) {
+@media (max-width: 500px) {
     .cabecalho {
         flex-wrap: wrap;
         justify-content: center;
