@@ -111,8 +111,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column; 
-    width: 100vw;
-    height: 100vh;
+   height: 100vh;
     border-radius: 5px;
     gap: 15px;
  }
